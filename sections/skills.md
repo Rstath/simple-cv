@@ -1,4 +1,4 @@
-## Technological Skills
+## Technical Skills
 
 * HTML, ISML
 * CSS, SCSS
@@ -9,3 +9,4 @@
 * C
 * MySQL
 * Java
+* \LaTeX
