@@ -49,8 +49,8 @@ keywords:
 - colonial exploitation
 last-modified: true
 meta-title: Simple CV
-canonical-url: "https://muziejus.github.io/simple-cv/" # Change this to your url.
-date-created: 2018-04-18
+canonical-url: "https://rstath.github.io/simple-cv/" # Change this to your url.
+date-created: 2023-11-19
 description: >- 
   A Curriculum Vitæ created using the “simple-cv” package,
   available at https://github.com/muziejus/simple-cv 
